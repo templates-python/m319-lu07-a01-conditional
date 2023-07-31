@@ -3,7 +3,7 @@
     {
       "name": "Pytest",
       "setup": "sudo -H pip3 install -r requirements.txt",
-      "run": "pytest -v  -k \"larger_test\"",
+      "run": "pytest -v  -k \"test_larger\"",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "Pytest",
       "setup": "sudo -H pip3 install -r requirements.txt",
-      "run": "pytest -v  -k \"boolean_test\"",
+      "run": "pytest -v  -k \"test_boolean\"",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -23,7 +23,7 @@
     {
       "name": "Pytest",
       "setup": "sudo -H pip3 install -r requirements.txt",
-      "run": "pytest -v  -k \"modulo_test1\"",
+      "run": "pytest -v  -k \"test_modulo1\"",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -33,7 +33,7 @@
     {
       "name": "Pytest",
       "setup": "sudo -H pip3 install -r requirements.txt",
-      "run": "pytest -v  -k \"modulo_test2\"",
+      "run": "pytest -v  -k \"test_modulo2\"",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -43,7 +43,7 @@
     {
       "name": "Pytest",
       "setup": "sudo -H pip3 install -r requirements.txt",
-      "run": "pytest -v  -k \"nested_test1\"",
+      "run": "pytest -v  -k \"test_nested1\"",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -53,7 +53,7 @@
     {
       "name": "Pytest",
       "setup": "sudo -H pip3 install -r requirements.txt",
-      "run": "pytest -v  -k \"nested_test2\"",
+      "run": "pytest -v  -k \"test_nested2\"",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -63,7 +63,7 @@
     {
       "name": "Pytest",
       "setup": "sudo -H pip3 install -r requirements.txt",
-      "run": "pytest -v  -k \"nested_test3\"",
+      "run": "pytest -v  -k \"test_nested3\"",
       "input": "",
       "output": "",
       "comparison": "included",
