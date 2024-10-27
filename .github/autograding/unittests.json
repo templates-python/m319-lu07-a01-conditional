@@ -1,43 +1,43 @@
 [
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_larger",
+    "function": "test_larger",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_boolean",
+    "function": "test_boolean",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_modulo1",
+    "function": "test_modulo1",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_modulo2",
+    "function": "test_modulo2",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_nested1",
+    "function": "test_nested1",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_nested2",
+    "function": "test_nested2",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_nested3",
+    "function": "test_nested3",
     "timeout": 10,
     "points": 1
   }
