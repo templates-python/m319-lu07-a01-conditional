@@ -2,7 +2,7 @@ def larger():
     num1 = int(input("Please enter an integer:\n"))
     num2 = int(input("Please enter an integer:\n"))
 
-    # TODO: Please print the bigger number, only use one ternary-operator to do so
+    # TODO: Please print the bigger number, only use one ternary-operator to do so (example: '56872 is greater')
 
 
 def boolean():
