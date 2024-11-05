@@ -35,6 +35,7 @@ def modulo():
 def nested():
     number = int(input('Enter number between -100 and +200'))
 
+    # TODO: replace the if..else(if..else) with a ternary-operator
     if (number < 0):
         print('Less than zero')
     else:
